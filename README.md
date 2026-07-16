@@ -1,7 +1,7 @@
 # coding-journey
 I am a United States Navy Veteran;
 pivoting into quality assurance;
-and specializing in security.
+and specializing in ProdSec.
 ### Accomplished this week:
 * used the automated test generator to create my first test along side a YouTube tutorial 7JUL2026
 * vibe coded a Playwright E2E framework utilizing Page Object Model for scalability using Google Gemini 7JUL2026
