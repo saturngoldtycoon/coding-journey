@@ -11,7 +11,7 @@ test('should successfully log in and add an item to the cart', async ({page}) =>
     await loginPage.login('standard_user', 'secret_sauce');
 
     // 2. Verify successful login landing
-    await expect(inventoryPage.headerTitle).toHaveText('Products');
+    await expect(inventoryPage.headerTitle).toHaveText('Swag Labs');
 
     // 3. Add the first item to the cart and verify the cart updates
     await inventoryPage.firstAddToCartButton.click();
