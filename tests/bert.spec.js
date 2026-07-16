@@ -1,3 +1,4 @@
+// This is my first test using playwright. I am testing the bertbertbert.com website and DataDome Device Check
 import { test, expect } from '@playwright/test';
 
 test('test bertbertbert webpage @permission', async ({ page }) => {
