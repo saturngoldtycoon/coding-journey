@@ -3,8 +3,8 @@ I am a United States Navy Veteran;
 pivoting into quality assurance;
 and specializing in ProdSec.
 ### Accomplished this week:
-* a real debugging gauntlet: an ESM/CommonJS mismatch, a missing named export, and a GitHub email-privacy rebase, all traced back to root
-* began to learn Python
+* a real debugging gauntlet: an ESM/CommonJS mismatch, a missing named export, and a GitHub email-privacy rebase, all traced back to root 23JUL2026
+* began to learn Python 22JUL2026
 * crashed my system and debugged to fully operational 22JUL2026
 * created and debugged my fist test script with Playwright 22JUL2026
 * began a refresher bash scripting course with Coddy 21JUL2026
