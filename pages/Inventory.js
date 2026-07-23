@@ -1,4 +1,4 @@
-exports.Inventory = class Inventory {
+export class Inventory {
     constructor(page) {
         this.page = page;
         this.headerTitle = page.locator('.app_logo');

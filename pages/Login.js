@@ -1,4 +1,4 @@
-exports.Login = class Login {
+export class Login {
     constructor(page) {
         this.page = page;
         this.usernameInput = page.locator('[data-test="username"]');
