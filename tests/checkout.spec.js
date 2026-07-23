@@ -1,6 +1,6 @@
-const {test, expect} = require('@playwright/test');
-const {Login} = require('../pages/Login');
-const {Inventory} = require('../pages/Inventory');
+import { test, expect } from '@playwright/test';
+import { Login } from '../pages/Login.js';
+import { Inventory } from '../pages/Inventory.js';
 
 test('should successfully log in and add an item to the cart', async ({page}) => {
     const loginPage = new Login(page);
