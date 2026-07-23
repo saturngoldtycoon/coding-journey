@@ -1,5 +1,7 @@
 const {test, expect} = require('@playwright/test')
-const {hello, world} = require('./demo/hello.js')
+// import {test, expect} from '@playwright/test'
+test('My first test ', async ({page})=>{
 
-console.log (hello());
-console.log (world());
+    await page.goto('https://google.com')
+    await (page).toHaveTitle('Google')
+})
